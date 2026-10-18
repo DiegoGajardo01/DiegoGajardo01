@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning English, Testing and Data Stuffs<br>🎯 Goals: Make the next startup..<br>🎲 Fun fact: I love GeoGuessr 🌎</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Chinese, Testing and Data Stuffs<br>🎯 Goals: Make the next startup..<br>🎲 Fun fact: I love GeoGuessr 🌎</p>
 
 ###
 
